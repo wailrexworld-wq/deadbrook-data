@@ -1,1 +1,20 @@
 
+{
+  "messages": [
+    {
+      "id": "launch_1500",
+      "date": "2025-04-20",
+      "title": "🎁 Regalo de Lanzamiento — 1,500 Monedas",
+      "body": "Gracias por ser parte de DeadBroke desde el primer día. Como recompensa por aguantarnos, te regalamos 1,500 monedas. Úsalas sabiamente... o no. Igual ya sabemos que no puedes. 💀",
+      "reward_type": "coins",
+      "reward_value": 1500,
+      "reward_label": "1,500 🪙 Gratis"
+    },
+    {
+      "id": "welcome_msg",
+      "date": "2025-04-20",
+      "title": "💸 Bienvenido a DeadBroke",
+      "body": "La app que te dice lo que no quieres escuchar sobre tu dinero. Visita la tienda para desbloquear temas exclusivos del universo Wailrex y KuroNeko. ¡Que empiece el trauma financiero!"
+    }
+  ]
+}
